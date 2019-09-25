@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\bin\Debug\Check_Number_With_Switch.exe.config
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\bin\Debug\Check_Number_With_Switch.exe
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\bin\Debug\Check_Number_With_Switch.pdb
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\obj\Debug\Check_Number_With_Switch.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\obj\Debug\Check_Number_With_Switch.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\obj\Debug\Check_Number_With_Switch.exe
+D:\DEV\C#\Practice\Check_Number_With_Switch\Check_Number_With_Switch\obj\Debug\Check_Number_With_Switch.pdb
